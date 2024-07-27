@@ -1,5 +1,4 @@
 # HangmanGame
-Hangman Game
 Welcome to the Hangman game! This classic word guessing game challenges players to guess a hidden word by suggesting letters or the entire word within a limited number of tries.
 
 How It Works
